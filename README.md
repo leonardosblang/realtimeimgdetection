@@ -5,7 +5,7 @@ You can run this algorithm to detect and follow the movement of an object. Once 
 <ul>
   <li>Python</ li>
 </ul>
-## Demonstration :gift:
+# Demonstration :gift:
 <p align="center">
   <img height="520" src="img/g.gif" />
 </p>
