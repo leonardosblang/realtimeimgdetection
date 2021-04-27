@@ -8,5 +8,5 @@ You can run this algorithm to detect and follow the movement of an object. Once 
 
 ## Demonstration :gift:
 <p align="center">
-  <img height="520" src="img/g.gif" />
+  <img height="520" src="img/goomba.gif" />
 </p>
